@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/severgroup-tt/gopkg-database"
-	"github.com/severgroup-tt/gopkg-errors"
+	"github.com/sanches1984/gopkg-database"
+	"github.com/sanches1984/gopkg-errors"
 
 	"github.com/go-pg/migrations/v7"
 	"github.com/go-pg/pg/v9"

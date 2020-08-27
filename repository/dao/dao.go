@@ -8,11 +8,11 @@ import (
 	"strings"
 	"time"
 
-	db "github.com/severgroup-tt/gopkg-database"
-	pgerr "github.com/severgroup-tt/gopkg-database/errors"
-	"github.com/severgroup-tt/gopkg-database/repository/opt"
-	"github.com/severgroup-tt/gopkg-errors"
-	logger "github.com/severgroup-tt/gopkg-logger"
+	db "github.com/sanches1984/gopkg-database"
+	pgerr "github.com/sanches1984/gopkg-database/errors"
+	"github.com/sanches1984/gopkg-database/repository/opt"
+	"github.com/sanches1984/gopkg-errors"
+	logger "github.com/sanches1984/gopkg-logger"
 
 	"github.com/go-pg/pg/v9/orm"
 )

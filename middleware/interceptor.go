@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	db "github.com/severgroup-tt/gopkg-database"
+	db "github.com/sanches1984/gopkg-database"
 
 	"google.golang.org/grpc"
 )

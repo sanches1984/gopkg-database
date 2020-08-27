@@ -2,7 +2,7 @@ package pager
 
 import (
 	"github.com/go-pg/pg/v9/orm"
-	"github.com/severgroup-tt/gopkg-database/repository"
+	"github.com/sanches1984/gopkg-database/repository"
 )
 
 // pager implementation for orm.Apply

@@ -4,9 +4,9 @@ import (
 	"context"
 	"math"
 
-	"github.com/severgroup-tt/gopkg-database/repository"
-	dbpager "github.com/severgroup-tt/gopkg-database/repository/pager"
-	"github.com/severgroup-tt/gopkg-errors"
+	"github.com/sanches1984/gopkg-database/repository"
+	dbpager "github.com/sanches1984/gopkg-database/repository/pager"
+	"github.com/sanches1984/gopkg-errors"
 )
 
 // pager internal implementation of facade

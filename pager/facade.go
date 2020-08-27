@@ -1,6 +1,6 @@
 package pager
 
-import "github.com/severgroup-tt/gopkg-database/repository"
+import "github.com/sanches1984/gopkg-database/repository"
 
 // Pager facade for pager
 type Pager interface {

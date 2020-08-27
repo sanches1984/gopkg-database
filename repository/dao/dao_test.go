@@ -5,15 +5,15 @@ package dao
 import (
 	"context"
 	"fmt"
-	"github.com/severgroup-tt/gopkg-database/repository/filter"
+	"github.com/sanches1984/gopkg-database/repository/filter"
 	"testing"
 	"time"
 
-	db "github.com/severgroup-tt/gopkg-database"
-	pgerr "github.com/severgroup-tt/gopkg-database/errors"
-	"github.com/severgroup-tt/gopkg-database/repository/dao/test"
-	"github.com/severgroup-tt/gopkg-database/repository/opt"
-	"github.com/severgroup-tt/gopkg-errors"
+	db "github.com/sanches1984/gopkg-database"
+	pgerr "github.com/sanches1984/gopkg-database/errors"
+	"github.com/sanches1984/gopkg-database/repository/dao/test"
+	"github.com/sanches1984/gopkg-database/repository/opt"
+	"github.com/sanches1984/gopkg-errors"
 
 	"github.com/go-pg/pg/v9"
 	"github.com/stretchr/testify/assert"

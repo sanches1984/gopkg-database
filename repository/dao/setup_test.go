@@ -9,8 +9,8 @@ import (
 	"os"
 	"testing"
 
-	db "github.com/severgroup-tt/gopkg-database"
-	"github.com/severgroup-tt/gopkg-database/repository/dao/test"
+	db "github.com/sanches1984/gopkg-database"
+	"github.com/sanches1984/gopkg-database/repository/dao/test"
 )
 
 var (

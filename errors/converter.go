@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/severgroup-tt/gopkg-errors"
+	"github.com/sanches1984/gopkg-errors"
 
 	"github.com/go-pg/pg/v9"
 )
